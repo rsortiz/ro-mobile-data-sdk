@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/rortiz/iOSDev/mobile-data-sdk/mobile-data-sdk/build/bin/iosArm64/podReleaseFramework/MobileDataSDK.framework/MobileDataSDK'
+binary-path:     '/Users/uxui/.jenkins/workspace/Distribution_feature_NATIVE-1662/mobile-data-sdk/build/bin/iosArm64/podReleaseFramework/MobileDataSDK.framework/MobileDataSDK'
 relocations:
   - { offsetInCU: 0x329, offset: 0x329, size: 0x8, addend: 0x0, symName: '_kfun:kotlinx.cinterop.CPointer#hashCode(){}kotlin.Int', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
   - { offsetInCU: 0x331, offset: 0x331, size: 0x8, addend: 0x0, symName: '_kfun:kotlinx.cinterop.CPointer#toString(){}kotlin.String', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x44 }
